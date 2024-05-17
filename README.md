@@ -1,4 +1,4 @@
-#### To run the code
+To run the code
 
 ```bash
 cargo run --release
